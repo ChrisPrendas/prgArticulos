@@ -1,2 +1,3 @@
 # prgArticulos
-Proyecto del Curso Lenguajes
+Proyecto del Curso Lenguajes comerciales
+
